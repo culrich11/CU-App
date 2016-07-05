@@ -1,0 +1,13 @@
+{
+  "appname": "CU App",
+  "ocscope": "FullAccess",
+  "clientid": "172B387D-6E22-4989-8937-9B5277086C3E",
+  "buyerid": "buyer1",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
